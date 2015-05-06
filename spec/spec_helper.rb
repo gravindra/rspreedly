@@ -13,7 +13,7 @@ RSpec.configure do |config|
 end
 
 def spreedly_url(path)
-  "https://your-api-key:X@spreedly.com/api/v4/your-site-name#{path}"
+  "https://your-api-key:X@subs.pinpayments.com/api/v4/your-site-name#{path}"
 end
 
 def fixture(file)

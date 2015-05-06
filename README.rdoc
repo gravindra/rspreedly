@@ -77,7 +77,7 @@ Error messages
 
 See the specs and API docs at Spreedly for more details and the rest of the things it can do.
 
-https://www.spreedly.com/manual/integration-reference/url-reference/
+https://subs.pinpayments.com/manual/integration-reference/url-reference
 
 == Todo
 
